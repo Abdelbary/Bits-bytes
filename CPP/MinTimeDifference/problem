@@ -1,0 +1,11 @@
+Given an array of time strings times, return the smallest difference between any two times in minutes.
+
+Example:
+Input: ["00:03", "23:59", "12:03"]
+Output: 4
+Input: The closest 2 times are "00:03" and "23:59" (by wrap-around), and they differ by 4 minutes.
+
+Constraints:
+All strings will be non-empty and in the format HH:mm
+
+.
