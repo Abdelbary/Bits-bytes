@@ -1,1 +1,8 @@
 *.exe
+*.sln
+*.vcxproj
+*.filters
+*.user
+*.obj
+Debug/*
+.vs/*

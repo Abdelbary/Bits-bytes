@@ -60,7 +60,7 @@ private:
         while (num)
         {
             int temp = num % b2;
-            if(temp > 10)
+            if(temp >= 10)
                 res.push_back(temp - 10 + 'A');
             else
                 res.push_back(temp + '0');
