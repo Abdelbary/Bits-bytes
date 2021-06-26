@@ -4,5 +4,5 @@
 *.filters
 *.user
 *.obj
-*Debug/*
-*.vs/*
+*/Debug/*
+*/.vs/*
