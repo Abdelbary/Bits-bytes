@@ -1,0 +1,1 @@
+given an array of n number find the next permuation for that array.
