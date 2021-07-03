@@ -20,7 +20,7 @@ void printPremutation(vector<int>& p, int i)
         return;
     }
     
-    for (int j = i; j < p.size(); j++)
+    for (int j = i+1; j < p.size(); j++)
     {   
         swap(p[i],p[j]);
 
